@@ -27,7 +27,7 @@ const upperCaseKeys = splitAll([
     `1!@#$%^&*()_+`,
     `QWERTYUIOP{}|`,
     `ASDFGHJKL:"`,
-    `ZXCVBNM<<>?`
+    `ZXCVBNM<>?`
 ]);
 
 const specialButtons = [
